@@ -7,6 +7,8 @@
 
 ### Student Details
 - **Student Name:** Sujay Hegde
+- **SRN:** PES1UG24CS478
+- **Section:** 5-H
 - **GitHub:** [sujayhegde23](https://github.com/sujayhegde23)
 - **Repository:** [LAB-1_Activity](https://github.com/sujayhegde23/LAB-1_Activity)
 
